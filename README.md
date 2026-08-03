@@ -28,8 +28,6 @@ Privacy-first: all processing stays local, no data sent to third-party servers. 
 
 Upgrade to the Pro version for **$14.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://aevornsell.gumroad.com/l/cgftoe)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/5kQ9AT5iT1g06xy5bud0o3c)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$14.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://aevornsell.gumroad.com/l/cgftoe)
 
 ## License
 
